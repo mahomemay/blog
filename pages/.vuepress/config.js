@@ -14,11 +14,11 @@ module.exports = {
 		nav: [
 			{
 				text: 'Notes',
-				link: '/Notes/'
+				link: '/notes/'
 			}, // 内部链接 以docs为根目录
 			{
 				text: 'Diaries',
-				link: '/Diaries/'
+				link: '/diaries/'
 			}
 		],
 		sidebarDepth: 2,
